@@ -1,2 +1,3 @@
-# AIPMND-AI_Product_Manager
-Udacity Coursework for the AI Product Manager Nanodegree
+![image](https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P1-Create_a_Medical_Image_Data_Annotation_Job/report_images/Proposal-1.jpg)
+![image](https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P1-Create_a_Medical_Image_Data_Annotation_Job/report_images/Proposal-2.jpg)
+![image](https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P1-Create_a_Medical_Image_Data_Annotation_Job/report_images/Proposal-3.jpg)
