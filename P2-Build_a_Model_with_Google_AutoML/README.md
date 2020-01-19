@@ -1,2 +1,8 @@
-# AIPMND-AI_Product_Manager
-Udacity Coursework for the AI Product Manager Nanodegree
+![image](https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P2-Build_a_Model_with_Google_AutoML/report_images/Ohara-AIPMND-P2-1.jpg)
+![image](https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P2-Build_a_Model_with_Google_AutoML/report_images/Ohara-AIPMND-P2-2.jpg)
+![image](https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P2-Build_a_Model_with_Google_AutoML/report_images/Ohara-AIPMND-P2-3.jpg)
+![image](https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P2-Build_a_Model_with_Google_AutoML/report_images/Ohara-AIPMND-P2-4.jpg)
+![image](https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P2-Build_a_Model_with_Google_AutoML/report_images/Ohara-AIPMND-P2-5.jpg)
+![image](https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P2-Build_a_Model_with_Google_AutoML/report_images/Ohara-AIPMND-P2-6.jpg)
+![image](https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P2-Build_a_Model_with_Google_AutoML/report_images/Ohara-AIPMND-P2-7.jpg)
+![image](https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P2-Build_a_Model_with_Google_AutoML/report_images/Ohara-AIPMND-P2-8.jpg)
