@@ -1,2 +1,14 @@
-# AIPMND-AI_Product_Manager
-Udacity Coursework for the AI Product Manager Nanodegree
+https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P3-Capstone_Proposal-AI_for_Space/report_images/Ohara-AIPMND-Capstone_Proposal-AI_for_Space-01.jpg
+https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P3-Capstone_Proposal-AI_for_Space/report_images/Ohara-AIPMND-Capstone_Proposal-AI_for_Space-02.jpg
+https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P3-Capstone_Proposal-AI_for_Space/report_images/Ohara-AIPMND-Capstone_Proposal-AI_for_Space-03.jpg
+https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P3-Capstone_Proposal-AI_for_Space/report_images/Ohara-AIPMND-Capstone_Proposal-AI_for_Space-04.jpg
+https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P3-Capstone_Proposal-AI_for_Space/report_images/Ohara-AIPMND-Capstone_Proposal-AI_for_Space-05.jpg
+https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P3-Capstone_Proposal-AI_for_Space/report_images/Ohara-AIPMND-Capstone_Proposal-AI_for_Space-06.jpg
+https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P3-Capstone_Proposal-AI_for_Space/report_images/Ohara-AIPMND-Capstone_Proposal-AI_for_Space-07.jpg
+https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P3-Capstone_Proposal-AI_for_Space/report_images/Ohara-AIPMND-Capstone_Proposal-AI_for_Space-08.jpg
+https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P3-Capstone_Proposal-AI_for_Space/report_images/Ohara-AIPMND-Capstone_Proposal-AI_for_Space-09.jpg
+https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P3-Capstone_Proposal-AI_for_Space/report_images/Ohara-AIPMND-Capstone_Proposal-AI_for_Space-10.jpg
+https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P3-Capstone_Proposal-AI_for_Space/report_images/Ohara-AIPMND-Capstone_Proposal-AI_for_Space-11.jpg
+https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P3-Capstone_Proposal-AI_for_Space/report_images/Ohara-AIPMND-Capstone_Proposal-AI_for_Space-12.jpg
+https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P3-Capstone_Proposal-AI_for_Space/report_images/Ohara-AIPMND-Capstone_Proposal-AI_for_Space-13.jpg
+https://github.com/Ohara124c41/AIPMND-AI_Product_Manager/blob/master/P3-Capstone_Proposal-AI_for_Space/report_images/Ohara-AIPMND-Capstone_Proposal-AI_for_Space-14.jpg
